@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "287132-nature-landscape-mountain-river-forest-grass-sunrise-snowy_peak-sky-clouds-reflection-Grand_Teton_National_Park-Wyoming-water-3794425012.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
